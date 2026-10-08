@@ -97,6 +97,17 @@ Search, filter by type, sort by size or date, and open any file in a click. Remo
 </tr>
 </table>
 
+### On your phone, too
+
+The Android app is built natively for phones: share a link from YouTube or any app to Keepfin, review the qualities and sizes, and download. Videos land in **Movies/Keepfin**, music in **Music/Keepfin**, ready for your gallery and player.
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/android-light.png">
+  <img src="assets/android-dark.png" alt="Keepfin on Android: link review with sizes, a playlist and the library" width="820">
+</picture>
+</p>
+
 ### And more
 
 - 🔒 **Private and age-restricted content** — sign in once (Android) or use your browser's session (Windows).
