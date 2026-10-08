@@ -11,7 +11,7 @@
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-4C7EFF?style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-8.0%2B-4C7EFF?style=for-the-badge)
 
-<a href="https://github.com/HishamSunjeq/keepfin-releases/releases/latest"><b>⬇ Download the latest version</b></a>
+<a href="https://github.com/HishamSunjeq/keepfin-releases/releases/latest"><b>⬇ Download the latest version</b></a> &nbsp;·&nbsp; <a href="https://keepfin-website.vercel.app/"><b>🌐 keepfin-website.vercel.app</b></a>
 
 <br><br>
 
